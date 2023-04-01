@@ -1,0 +1,20 @@
+[
+    {
+        "id": "0d43f6f6-6dfd-4a38-b586-26904ff5990b",
+        "title": "Angular",
+        "price": "800000",
+        "user_id": "c9d4d33c-4fa9-4703-86ef-b02091401917"
+    },
+    {
+        "id": "0fe05125-873a-407b-858a-dbbee6559586",
+        "title": "Express",
+        "price": "800000",
+        "user_id": "2f475433-fe99-4b51-bad6-8ccce7479cf4"
+    },
+    {
+        "id": "2ba5187a-2292-4b0e-a247-32b8d3b24934",
+        "title": "Nestjs",
+        "price": "800000",
+        "user_id": "2f475433-fe99-4b51-bad6-8ccce7479cf4"
+    }
+]

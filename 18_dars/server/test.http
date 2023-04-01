@@ -1,0 +1,32 @@
+GET http://localhost:5050/course
+
+###
+POST http://localhost:5050/course
+
+###
+DELETE http://localhost:5050/course/1111111111
+
+###
+PUT http://localhost:5050/course/66666666
+
+
+
+# auth
+###
+POST http://localhost:5050/register
+Content-Type: application/json
+
+{
+    "username": "Toshmat2",
+    "email": "toshmat2707@gmail.com",
+    "password":"toshmat707"
+}
+
+###
+POST http://localhost:5050/login
+Content-Type: application/json
+
+{
+    "suppername": "Toshmat",
+    "password":"toshmat707"
+}

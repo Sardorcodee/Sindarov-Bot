@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "username": "Shermat",
+        "email": "shermat@gmail.com",
+        "password": "shermat123"
+    },
+    {
+        "id": "2f475433-fe99-4b51-bad6-8ccce7479cf4",
+        "username": "Toshmat",
+        "email": "toshmat707@gmail.com",
+        "password": "$2a$12$GllBfC1F4E6RH8B1TAzXretw5qZTqAMWUipoL9cC24EbvtZHu.ErK"
+    },
+    {
+        "id": "c9d4d33c-4fa9-4703-86ef-b02091401917",
+        "username": "Sendir",
+        "email": "sendir777@gmail.com",
+        "password": "$2a$12$L207Js8DNBxmReP1qY3Zj.OljdMhLaSb/V9GuEhy2tBThTBS4LwH."
+    },
+    {
+        "id": "b7818618-d1de-493b-a64f-eab8fe97e1dd",
+        "username": "Toshmat2",
+        "email": "toshmat2707@gmail.com",
+        "password": "$2a$12$/qUFjlnjXdQE5CpQQRDqQeObif43jw9aUq6mXJPrX9Fk8N/a81yLy"
+    },
+    {
+        "id": "026da087-ddf6-4ea7-88e0-fed4e8ff2723",
+        "username": "Elyor",
+        "email": "davlat@gmail.com",
+        "password": "$2a$12$60xWyov22QH8wDDetpiakeCGtkY6T1fvonkgSOUIqfVShN/3AENTq"
+    },
+    {
+        "id": "b3085083-d051-42ad-9739-0b61adc8ade2",
+        "username": "Talaba",
+        "email": "talaba2020sarvar@gmail.com",
+        "password": "$2a$12$bgbX4wbwboUXwFaKkYMz8Onv1b5Hw0v5QaaPdLpi4jHE8XZIXoGCi"
+    },
+    {
+        "id": "d9578c00-13cb-4144-9084-505db6a045f2",
+        "username": "Davlat",
+        "email": "elyor@gmail.com",
+        "password": "$2a$12$EIvLsnrZaTaGUHH7vPDQxuq2XqAjwvJRy9Gf8ssj8YEg2bO2wa/by"
+    },
+    {
+        "id": "959dd468-bffd-463e-86dd-7a280e8dca8e",
+        "username": "Davlat",
+        "email": "muslimbek@gmail.com",
+        "password": "$2a$12$xKr4LyobxBv1xPgRl1ImpOTKy3pjfivK11S1hJsLA/SVsi2JqmlF2"
+    }
+]

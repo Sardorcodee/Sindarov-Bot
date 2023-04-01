@@ -1,0 +1,2 @@
+const token = "5866561097:AAGyv_Iz7cj8KG-vP-35q5lyoQyODP2o3Ew";
+const api_key = "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";
