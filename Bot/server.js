@@ -22,15 +22,12 @@ bot.on("message", async (message) => {
     bot.sendMessage(message.chat.id, text, params);
 
   if (message.text.startsWith("/start") || message.text === "✖️ Меню") {
-    return message.send(
-      "🔺 Добро пожаловать в бот по продаже QIWI кошельков!",
-      {
-        reply_markup: {
-          keyboard: menu.start,
-          resize_keyboard: true,
-        },
-      }
-    );
+    return message.send("🔺 cd", {
+      reply_markup: {
+        keyboard: menu.start,
+        resize_keyboard: true,
+      },
+    });
   }
 
   if (message.text === "➕ Доступные кошельки") {
