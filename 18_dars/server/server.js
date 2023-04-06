@@ -14,7 +14,7 @@ const port = process.env.PORT || 5000
 const app = express();
 
 app.use(cors({
-    origin: ["http://localhost:5173", "https://your-say-1.onrender.com"],
+    origin: ["http://localhost:5173"],
 }))
 app.use(express.json())
 
